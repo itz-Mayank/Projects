@@ -8,6 +8,12 @@
 * To install nodemon 
   "npm i nodemon"
 
+* To install mongoDB
+   [Official site to download](https://www.mongodb.com/try/download/community)
+  
+* To install node.js
+  [Official site to download](https://nodejs.org/en/download)
+  
 # To run this :
 1. Open the terminal and run "nodemon server.js"
 2. Go to mongoDB and then click connect.
