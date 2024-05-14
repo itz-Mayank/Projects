@@ -2,11 +2,11 @@
 * To install package.json 
   "npm init" and press enter and enter.....
 
-* To connect with database and add articles
-  "npm i express mongoose ejs"
+* To connect with database
+  "npm i express mongoose"
 
-* To install dev dependencies
-  "npm i --save-dev nodemon"
+* To install nodemon 
+  "npm i nodemon"
 
 # To run this :
 1. Open the terminal and run "nodemon server.js"
